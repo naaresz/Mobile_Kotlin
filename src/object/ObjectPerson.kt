@@ -1,0 +1,1 @@
+package `object`import `class`.Personfun main() {    val namaSaya = Person(nama =  "nares", tahun = 2024)    println("Nama = ${namaSaya.nama} \ntahun = ${namaSaya.tahun}")}

@@ -1,0 +1,1 @@
+package `class`class Person (    val nama : String,    val tahun : Int) {}

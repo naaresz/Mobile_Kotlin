@@ -1,0 +1,1 @@
+package `object`import `class`.Managerimport `class`.memberfun main() {    val manager = Manager("Nares")    manager.sayHello("Mobile")    val member = member("Dira")    member.sayHello("Plugin")}
